@@ -1,3 +1,4 @@
+
 # Netflix-movie-analysis
 ________________________________________
 1. Introduction
@@ -15,18 +16,28 @@ The following steps were undertaken to analyse the data:
 
 4. Key Findings
 4.1 Country-based trends
+
+
 •	USA ranked first among all releases and accounted for 34% of total releases, and there is a total release of 11,855 in all countries.
+
 •	India ranked 2nd by contributing 11% of total releases, followed by the UK, which contributed 7%.
 
 4.2 Genre Performance
+
 •	International Movies had a total release of 2368, and Dramas had 2292, receiving the highest releases.
+
 •	Action and Adventure shows 3rd highest releases on Netflix.
+
 •	Science and Nature TV shows had the lowest releases of all genres.
+
 •	The United States was the only country to release horror movies.
 
 4.3 Show Category
+
 •	Movies had the highest universal releases, and TV shows had the highest restricted releases.
+
 •	Children under 14 made up 24% of releases, PG 13 & TV PG made up 8% of each release and adult releases accounted for 47% of total releases.
 
 6. Conclusion
+
 The analysis highlights significant trends in movie reviews and audience sentiments. The industry can enhance viewer satisfaction and optimize movie marketing strategies by implementing the suggested recommendations.
